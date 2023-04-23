@@ -10,6 +10,10 @@ FreelancR is an application which allows Developers and Customers to connect tog
 - [Built With](#built-with)
 - [License](#license)
 
+## Deployed application
+
+https://freelancr-gig.onrender.com
+
 ## Dependencies
 
 [React](https://reactjs.org/) - Click the link to reveal what React is and what it does.
