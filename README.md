@@ -22,7 +22,7 @@ FreelancR is an application which allows Developers and Customers to connect tog
 
 ## Deployed application
 
-https://freelancr-gig.onrender.com
+https://gig-freelancr.herokuapp.com/
 
 ## Preview
 
